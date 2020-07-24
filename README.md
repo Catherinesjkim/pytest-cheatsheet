@@ -7,6 +7,7 @@
 - Support for filtering for test cases
 - Ability to rerun from the last failing test
 - An ecosystem of hundreds of plugins to extend the functionality
+- Useful output in the terminal
 
 Check out more awesome information on `pytest` in the [official documentation](https://docs.pytest.org/en/latest/).
 
